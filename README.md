@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @finleywilliamsonV
+- 👀 I’m interested in WEB THINGS
+- 🌱 I’m currently learning ANGULAR
+- 💞️ I’m looking to collaborate on MORE WEB THINGS
+- 📫 How to reach me: ***.******@gmail.com
